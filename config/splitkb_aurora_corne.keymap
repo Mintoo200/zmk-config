@@ -27,7 +27,7 @@
                 combo_lock {
                         timeout-ms = <50>;
                         key-positions = <5 6>;
-                        bindings = <&kp LCTRL(LGUI(Q))>;
+                        bindings = <&kp LC(LG(Q))>;
                 };
         };
 
